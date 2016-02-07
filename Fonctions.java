@@ -21,7 +21,8 @@ class Fonctions{
 	// calcul du carré d'un entiers
 	
 	public int square(int x){
-		return x*x;
+		int val = x*x;
+		return val;
 	}
 	
 	// calcul du cube d'un entiers
