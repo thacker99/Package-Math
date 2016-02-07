@@ -10,6 +10,7 @@ class TestFonctions{
 		System.out.println(x + " + " + y + " = " + val);
 		val = f.soustraction(x,y);
 		System.out.println(x + " - " + y + " = " + val);
+		System.out.println("cube( + "+ x + ") = " + f.cube(x));
 		
 	}
 	
