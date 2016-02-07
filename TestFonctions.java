@@ -8,7 +8,8 @@ class TestFonctions{
 		Fonctions f = new Fonctions();
 		val = f.addition(x,y);
 		System.out.println(x + " + " + y + " = " + (x+y));
-		
+		val = f.soustraction(x,y);
+		System.out.println(x + " - " + y + " = " + (x-y));
 		
 	}
 	
