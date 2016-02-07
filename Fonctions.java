@@ -14,9 +14,13 @@ class Fonctions{
 	
 	// division de deux entiers
 	
-	
 	public float division(int x, int y){
 		return x/y;
-		
+	}
+	
+	// calcul du carré d'un entiers
+	
+	public int square(int x){
+		return x*x;
 	}
 }
