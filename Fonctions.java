@@ -6,6 +6,11 @@ class Fonctions{
 		return x+y;
 	}
 	
+	// soustraction de deux entiers
+	
+	public int soustraction(int x, int y){
+		return x-y;
+	}
 	
 	
 }
