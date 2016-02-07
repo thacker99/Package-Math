@@ -12,5 +12,11 @@ class Fonctions{
 		return x-y;
 	}
 	
+	// division de deux entiers
 	
+	
+	public float division(int x, int y){
+		return x/y;
+		
+	}
 }
