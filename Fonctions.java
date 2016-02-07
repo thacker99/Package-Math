@@ -23,4 +23,11 @@ class Fonctions{
 	public int square(int x){
 		return x*x;
 	}
+	
+	// calcul du cube d'un entiers
+	
+	
+	public int cube(int x){
+		return x*x*x;
+	}
 }
